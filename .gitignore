@@ -1,5 +1,5 @@
 # Ignore model files
-saved_models/u2net/u2net.pth
+saved_models/
 
 # Optional: ignore results
 results/
