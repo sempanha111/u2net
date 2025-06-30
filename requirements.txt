@@ -2,6 +2,11 @@ torch
 torchvision
 pillow
 numpy
-fastapi 
-uvicorn 
+fastapi
+uvicorn
 python-multipart
+typing-extensions
+beautifulsoup4
+yt_dlp
+ffmpeg
+pytube
